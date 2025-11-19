@@ -6,3 +6,5 @@ Modificaciones en Archivo2 en la rama feature/carrito
 Yo me pongo a trabajar en el archivo como si fuera código
 
 Estos cambios simulan que están hechos desde otro equipo. 
+
+Evolucionar la rama pruebas
