@@ -6,3 +6,6 @@ Modificaciones en Archivo2 en la rama feature/carrito
 Yo me pongo a trabajar en el archivo como si fuera código
 
 Estos cambios simulan que están hechos desde otro equipo. 
+
+Estos cambios se han hecho en la rama pruebas
+se ha renombrado el archivo2 a su nombre correcto
