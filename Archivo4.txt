@@ -1,0 +1,4 @@
+Esto es Archivo4 creado en la rama pruebas
+
+Y lo modifico, desde ambos archivos ahora desde la rama main
+
